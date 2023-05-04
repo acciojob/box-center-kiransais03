@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+/*  your css code here. If applicable */
+div {
+	border:2px solid black;
+	width:100px;
+	height:100px;
+    background-color:lightblue;
+	position:relative;
+	top:50vh;
+	left:50vw;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
